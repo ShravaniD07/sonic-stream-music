@@ -1,0 +1,5 @@
+{
+  "name": "SonicStream",
+  "description": "A high-fidelity music streaming experience inspired by Spotify, featuring immersive playback and curated playlists.",
+  "requestFramePermissions": []
+}
